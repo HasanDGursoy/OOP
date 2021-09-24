@@ -1,1 +1,1 @@
-Python dili üzerinden OOP'yi güzelce anlayabilceğiniz bir döküman.
+OOP'nin Python'da nasıl ele alındığını güzelce anlayabilceğiniz bir döküman.
